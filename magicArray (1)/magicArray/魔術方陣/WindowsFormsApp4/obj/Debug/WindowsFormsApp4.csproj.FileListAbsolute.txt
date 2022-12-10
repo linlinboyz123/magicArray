@@ -1,0 +1,40 @@
+C:\Users\chan\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\chan\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\chan\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\chan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\chan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\chan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\chan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\chan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\chan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\chan\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+E:\下載\資料結構\魔術方陣\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+E:\下載\資料結構\魔術方陣\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+E:\下載\資料結構\魔術方陣\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+E:\下載\資料結構\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+E:\下載\資料結構\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+E:\下載\資料結構\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+E:\下載\資料結構\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+E:\下載\資料結構\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+E:\下載\資料結構\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+E:\下載\資料結構\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+E:\下載\資料結構 (3)\魔術方陣\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+E:\下載\資料結構 (3)\魔術方陣\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+E:\下載\資料結構 (3)\魔術方陣\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+E:\下載\資料結構 (3)\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+E:\下載\資料結構 (3)\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+E:\下載\資料結構 (3)\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+E:\下載\資料結構 (3)\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+E:\下載\資料結構 (3)\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+E:\下載\資料結構 (3)\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+E:\下載\資料結構 (3)\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\a9754\Downloads\072b0212af2cbd6c\魔術方陣\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\a9754\Downloads\072b0212af2cbd6c\魔術方陣\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\a9754\Downloads\072b0212af2cbd6c\魔術方陣\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\a9754\Downloads\072b0212af2cbd6c\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\a9754\Downloads\072b0212af2cbd6c\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\a9754\Downloads\072b0212af2cbd6c\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\a9754\Downloads\072b0212af2cbd6c\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\a9754\Downloads\072b0212af2cbd6c\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\a9754\Downloads\072b0212af2cbd6c\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\a9754\Downloads\072b0212af2cbd6c\魔術方陣\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
